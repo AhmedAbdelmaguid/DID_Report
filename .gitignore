@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.xlsx
+*.xls
+.streamlit/
+.venv/
+venv/
+env/
+config_salvate/

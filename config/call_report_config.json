@@ -1,0 +1,16 @@
+{
+  "column_mapping": {
+    "campagna": "Campagna",
+    "did": "DID",
+    "cli": "CLI",
+    "hangup_cause": "HangupCause",
+    "talk_time": "TalkTime"
+  },
+  "talk_time_threshold_seconds": 40,
+  "campaign_activity_overrides": {
+    "BR_WD_MD": "Metadig",
+    "ME_WD_MD": "Metadig",
+    "MS_WD_MD": "Metadig",
+    "OL_WD_MD": "Meta"
+  }
+}
